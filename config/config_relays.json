@@ -1,0 +1,18 @@
+{
+  "relay_1": {
+    "name": "Screibtisch",
+    "pin": 18
+  },
+  "relay_2": {
+      "name": "Lautsprecher",
+      "pin": 23
+  },
+  "relay_3": {
+      "name": "relay_3",
+      "pin": 24
+  },
+  "relay_4": {
+      "name": "relay_4",
+      "pin": 25
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "temperature_sensor": {
+    "model": 22,
+    "gpio_pin": 4
+  }
+}

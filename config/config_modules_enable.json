@@ -1,0 +1,10 @@
+{
+  "temperature" : "True",
+  "oled" : "True",
+  "relay" : "True",
+  "buttons" : "True",
+  "hue" : "True",
+  "twitter" : "True",
+  "infra_red" : "True",
+  "net_scan" : "True"
+}

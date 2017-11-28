@@ -1,0 +1,6 @@
+{
+  "oled_display": {
+    "rst_pin": 7,
+    "size": "128x64"
+  }
+}

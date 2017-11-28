@@ -1,0 +1,22 @@
+{
+  "1": {
+    "display_name": "Clear",
+    "display_description": "Clear the Display",
+    "function": "clear"
+  },
+  "2": {
+    "display_name": "Clock",
+    "display_description": "Display the Time",
+    "function": "clock"
+  },
+  "3": {
+    "display_name": "Stats",
+    "display_description": "Display the Computer Stats",
+    "function": "stats"
+  },
+  "4": {
+    "display_name": "Test",
+    "display_description": "Testing function",
+    "function": "test_function"
+  }
+}

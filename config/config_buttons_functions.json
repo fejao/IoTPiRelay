@@ -1,0 +1,66 @@
+{
+  "44": {
+    "type": "relay",
+    "function": "relay_1"
+  },
+  "43": {
+      "type": "relay",
+      "function": "relay_2"
+  },
+  "42": {
+      "type": "relay",
+      "function": "relay_3"
+  },
+  "41": {
+      "type": "relay",
+      "function": "relay_4"
+  },
+  "34": {
+      "type": "navigation",
+      "function": "up"
+  },
+  "33": {
+      "type": "navigation",
+      "function": "down"
+  },
+  "32": {
+      "type": "navigation",
+      "function": "select"
+  },
+  "31": {
+      "type": "navigation",
+      "function": "reset"
+  },
+  "24": {
+      "type": "extras",
+      "function": "temperature"
+  },
+  "23": {
+      "type": "extras",
+      "function": "clock"
+  },
+  "22": {
+      "type": "extras",
+      "function": "stats"
+  },
+  "21": {
+      "type": "extras",
+      "function": "oled"
+  },
+  "14": {
+      "type": "extras",
+      "function": "clear"
+  },
+  "13": {
+      "type": "extras",
+      "function": "hue"
+  },
+  "12": {
+      "type": "extras",
+      "function": "twitter"
+  },
+  "11": {
+      "type": "extras",
+      "function": "network_scanner"
+  }
+}

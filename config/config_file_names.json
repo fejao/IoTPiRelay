@@ -1,0 +1,11 @@
+{
+  "temperature_sensor" : "config_temperature_sensor.json",
+  "oled_display" : "config_oled_display.json",
+  "hue" : "config_philips_hue.json",
+  "twitter" : "config_twitter.json",
+  "network_scan" : "config_network.json",
+  "relays" : "config_relays.json",
+  "buttons" : "config_buttons.json",
+  "buttons_functions" : "config_buttons_functions.json",
+  "functions" : "config_functions.json"
+}

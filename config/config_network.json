@@ -1,0 +1,34 @@
+{
+  "192.168.1.1": {
+    "mac": "e8:de:27:30:22:32",
+    "vendor": "TP-LINK TECHNOLOGIES CO.,LTD."
+  },
+  "192.168.1.10": {
+   "mac": "b8:27:eb:61:7c:fb",
+   "vendor": "Raspberry Pi Foundation"
+  },
+  "192.168.1.11": {
+   "mac": "40:b4:cd:fb:b4:d9",
+   "vendor": "Amazon Technologies Inc."
+  },
+  "192.168.1.12": {
+    "mac": "00:17:88:70:d0:c9",
+    "vendor": "Philips Lighting BV"
+  },
+  "192.168.1.23": {
+    "mac": "b8:ac:6f:4b:3d:42",
+    "vendor": "Dell Inc"
+  },
+  "192.168.1.201": {
+    "mac": "f4:0e:22:b8:cc:c3",
+    "vendor": "Samsung Electronics Co.,Ltd"
+  },
+  "192.168.1.202": {
+    "mac": "e8:50:8b:e4:1d:c5",
+    "vendor": "SAMSUNG ELECTRO-MECHANICS(THAILAND)"
+  },
+  "192.168.1.203": {
+    "mac": "ec:10:7b:7f:ae:be",
+    "vendor": "Samsung Electronics Co.,Ltd"
+  }
+}
